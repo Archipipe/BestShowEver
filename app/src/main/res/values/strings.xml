@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BestShowEver</string>
+    <string name="navigation_item_characters_feed">Characters</string>
+    <string name="navigation_item_favorite_characters">Favorites</string>
+</resources>
